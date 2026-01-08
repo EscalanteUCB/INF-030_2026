@@ -14,9 +14,8 @@ Para cada figura, responde:
 ¿Cuál es su función dentro del diagrama?
 ¿Qué ejemplos de uso tiene?
 2. Descripción de Uso
-Explica cuándo y por qué se utiliza cada figura.
 
-EJEMPLO
+Ejemplo:
 Rombo: Se usa para representar una decisión que puede tener dos o más caminos (Sí / No).
 Paralelogramo: Indica operaciones de entrada (leer datos) o salida (mostrar resultados).
 3. Ejemplos Visuales
